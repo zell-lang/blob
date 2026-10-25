@@ -1,0 +1,7 @@
+[package]
+name = "blob"
+version = "0.0.1"
+namespace = "blob"
+
+license = "MIT"
+description = "Blob storage abstraction for Zell"
